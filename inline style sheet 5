@@ -1,0 +1,18 @@
+.bb-header.header-desktop .bottom-header.boxed .bb-page-header .container-inner,
+.bb-header.header-desktop .bottom-header.boxed .container,
+.bb-header.header-desktop .bottom-header.boxed .post-featured-image .content,
+.bb-header.header-desktop .top-header.boxed .bb-page-header .container-inner,
+.bb-header.header-desktop .top-header.boxed .container,
+.bb-header.header-desktop .top-header.boxed .post-featured-image .content,
+.bb-page-header .bb-header.header-desktop .bottom-header.boxed .container-inner,
+.bb-page-header .bb-header.header-desktop .top-header.boxed .container-inner,
+.post-featured-image .bb-header.header-desktop .bottom-header.boxed .content,
+.post-featured-image .bb-header.header-desktop .top-header.boxed .content {
+  width:1120px
+}
+.bb-page-header .container-inner,
+.container,
+.page-activate-signup #signup-content,
+.post-featured-image .content {
+  width:1120px
+}
